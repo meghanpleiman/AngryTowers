@@ -1,7 +1,7 @@
 
 ## Licenses 
 - [Rifle Burst](https://freesound.org/s/482120/), by [qubodup](https://freesound.org/people/qubodup/sounds/482120/) used under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
-- [Explosion_02](https://freesound.org/s/235968/), by [tommccann](https://freesound.org/people/tommccann/sounds/235968/) user under [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/)
+- [Explosion_02](https://freesound.org/s/235968/), by [tommccann](https://freesound.org/people/tommccann/sounds/235968/) used under [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Evaluation 
 The following criteria were met in the Angry Towers game, demonstrating that we have earned an A on this project.
